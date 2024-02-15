@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @chillivo
+- Studing at Uni.
+- Working as a delivery guy. 
+- Publishing my code here. 
 
 
 <!---
